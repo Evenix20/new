@@ -4,7 +4,7 @@
     "LANGCODE": "in",
     "AUTHOR": "Phaticusthiccy / @todayisshitday(telegram) / Avi Patil",
     "STRINGS": {
-        "_asena": {
+        "_cmd": {
             "COMMAND": "Perintah",
             "DESC": "Deskripsi",
             "EXAMPLE": "Contoh",
