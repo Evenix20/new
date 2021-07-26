@@ -4,7 +4,7 @@
     "LANGCODE": "in",
     "AUTHOR": "Phaticusthiccy / @todayisshitday(telegram) / Avi Patil",
     "STRINGS": {
-        "_cmd": {
+        "_wibu": {
             "COMMAND": "Perintah",
             "DESC": "Deskripsi",
             "EXAMPLE": "Contoh",
